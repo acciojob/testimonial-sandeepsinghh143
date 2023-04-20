@@ -2,12 +2,18 @@
 body{
 	background-color:f5f5f5;
 }
-div{
+.box{
 	border:1px solid black;
+	border-radius:10px:
+	margin-top:10px;
 }
-p{
+.span{
 	text-align:right;
 }
 .span{
 	font-style:italic;
+}
+p{
+	padding-left:10px;
+	padding-right:10px;
 }
